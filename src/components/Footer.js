@@ -16,35 +16,35 @@ function Footer() {
             <div className="content">
                 <p className='small-heading'>Learn about TEDx</p>
                 <div className="liner">
-                    <a href="https://www.ted.com/" target="_blank" className="anchor">TED</a>
+                    <a rel="noreferrer" href="https://www.ted.com/" target="_blank" className="anchor">TED</a>
                     <p className="separator">|</p>
-                    <a href="https://www.ted.com/about/programs-initiatives/tedx-program" target="_blank" className="anchor">TEDx Program</a>
+                    <a rel="noreferrer" href="https://www.ted.com/about/programs-initiatives/tedx-program" target="_blank" className="anchor">TEDx Program</a>
                     <p className="separator">|</p>
-                    <a href="https://www.ted.com/about/our-organization/our-policies-terms/ted-com-terms-of-use" target="_blank" className="anchor">Terms of Use</a>
+                    <a rel="noreferrer" href="https://www.ted.com/about/our-organization/our-policies-terms/ted-com-terms-of-use" target="_blank" className="anchor">Terms of Use</a>
                     <p className="separator">|</p>
-                    <a href="https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy" target="_blank" className="anchor">Privacy Policy</a>
+                    <a rel="noreferrer" href="https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy" target="_blank" className="anchor">Privacy Policy</a>
                 </div>
             </div>
             <div className="content">
                 <p className='small-heading'>TEDxVITVellore</p>
                 <div className="liner">
-                    <a href="https://www.linkedin.com/company/tedx-vitvellore/" target="_blank" className="anchor">LinkedIn</a>
+                    <a rel="noreferrer" href="https://www.linkedin.com/company/tedx-vitvellore/" target="_blank" className="anchor">LinkedIn</a>
                     <p className="separator">|</p>
-                    <a href="https://www.instagram.com/tedxvitvellore/" target="_blank" className="anchor">Instagram</a>
+                    <a rel="noreferrer" href="https://www.instagram.com/tedxvitvellore/" target="_blank" className="anchor">Instagram</a>
                     <p className="separator">|</p>
-                    <a href="https://twitter.com/TEDxVITVellore" target="_blank" className="anchor">Twitter</a>
+                    <a rel="noreferrer" href="https://twitter.com/TEDxVITVellore" target="_blank" className="anchor">Twitter</a>
                     <p className="separator">|</p>
-                    <a href="https://www.linkedin.com/company/tedx-vitvellore/" target="_blank" className="anchor">Medium</a>
+                    <a rel="noreferrer" href="https://www.linkedin.com/company/tedx-vitvellore/" target="_blank" className="anchor">Medium</a>
                     <p className="separator">|</p>
-                    <a href="https://www.facebook.com/Tedxvitvellore/" target="_blank" className="anchor">Facebook</a>
+                    <a rel="noreferrer" href="https://www.facebook.com/Tedxvitvellore/" target="_blank" className="anchor">Facebook</a>
                 </div>
             </div>
             <div className="content">
                 <p className='small-heading'>Contact Us</p>
                 <div className="liner">
-                    <a href="tel:+91-9179045326" className="anchor">+91-9179045326</a>
+                    <a rel="noreferrer" href="tel:+91-9179045326" className="anchor">+91-9179045326</a>
                     <p className="separator">|</p>
-                    <a href="mailto:tedxvitvellore@gmail.com" target="_blank" className="anchor">tedxvitvellore@gmail.com</a>
+                    <a rel="noreferrer" href="mailto:tedxvitvellore@gmail.com" target="_blank" className="anchor">tedxvitvellore@gmail.com</a>
                 </div>
             </div>
             <p className="small">This independent TEDx event is operated under license from TED.</p>

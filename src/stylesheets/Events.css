@@ -15,7 +15,7 @@
 }
 
 .event-inner{
-    padding:16px;
+    padding:8px;
 }
 
 .event-img img{
@@ -52,6 +52,6 @@ i{
         width:100%;
     }
     .event-inner{
-        padding:4px;
+        padding:8px;
     }
   }
