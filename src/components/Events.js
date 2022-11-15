@@ -5,7 +5,7 @@ function Events() {
   return (
     <div className="events-outer outer padding">
         <div className="main-heading">
-            <h1><span className="highlight-blue">History</span> was made!</h1>
+            <h1><span className="highlight-red">History</span> was made!</h1>
             
             
         </div>
