@@ -1,0 +1,38 @@
+.about-event{
+    padding:24px 0px;
+}
+
+.date{
+    padding:12px 0px;
+}
+
+.all-speakers{
+    padding:32px 0px;
+}
+
+.speaker{
+    display: flex;
+    padding:16px 0px;
+}
+
+.speaker-content{
+    padding-left: 16px;
+}
+
+.speaker-content h2{
+    padding-bottom:8px;
+}
+
+
+  @media(max-width:455px){
+    .speaker{
+        display: block;
+        padding:16px 0px;
+    }
+    
+    .speaker-content{
+        padding-left: 0px;
+        padding-top:8px;
+    }
+  }
+

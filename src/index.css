@@ -1,13 +1,82 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css");
+@import url('https://fonts.cdnfonts.com/css/product-sans');
+
+*{
+  padding:0px;
+  margin:0px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html {
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+
+body{
+  margin:0;
+  padding:0;
+  font-family: 'Product Sans', sans-serif;
+  background: linear-gradient(180deg, #000000 0%, #111111 100%);
+  color:#ffffff;
+  max-width: 100%;
+    overflow-x: hidden;
+}
+
+.outer{
+  width:90%;
+  margin: auto;
+}
+
+a{
+  text-decoration: none;
+  color:white;
+  cursor:pointer;
+  font-size: 14px;
+}
+
+.grey{
+  color:#9a9a9a;
+}
+
+button{
+  border-radius: 48px;
+  border: 2px solid white;
+  padding:16px;
+  width:160px;
+  margin:24px 0px;
+  background-color: #00000000;
+  color:white;
+  transition: 0.2s;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: white;
+  color:black;
+  transition: 0.2s;
+}
+
+.highlight-red{
+  background-color: #E40027;
+  padding:0px 12px;
+}
+
+.highlight-yellow{
+  background-color: #a0e400;
+  color:black;
+  padding:0px 12px;
+}
+
+.highlight-blue{
+  background-color: #00a3e4;
+  color:white;
+  padding:0px 12px;
+}
+
+@media(max-width:455px){
+  .outer{
+    width:90%;
+    margin: auto;
+  }
 }

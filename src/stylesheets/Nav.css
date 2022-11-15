@@ -1,0 +1,24 @@
+.nav-outer{   
+    padding:24px 0px;
+    position: absolute;
+    width:100%;
+}
+
+.flexing{
+    display: flex;
+    justify-content: space-between;
+    width:85%;
+}
+
+.right a{
+    font-weight: 500;
+    padding-left: 24px;
+}
+
+@media(max-width:455px){
+    .right a{
+        font-weight: 500;
+        padding-left: 16px;
+    }
+  }
+

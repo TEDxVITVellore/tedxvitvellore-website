@@ -1,0 +1,54 @@
+.home-outer{
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    height:100vh;
+}
+
+.hero-content{
+    padding-bottom:48px;
+}
+
+.main-heading h1{
+    font-size: 100px;
+    font-weight: 500;
+}
+
+.main-heading h2{
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.gap{
+    padding:12px 0px;
+}
+.big-gap{
+    padding-bottom: 48px;
+}
+
+.counter{
+    font-size: 24px;
+}
+
+.blob{
+    position: absolute;
+    z-index: -1;
+    right:-300px;
+    top:-580px;
+    animation: spin 12s infinite;
+}
+
+.blob img{
+    object-fit: contain;
+}
+
+@media(max-width:455px){
+    .main-heading h1{
+        font-size: 56px;
+        font-weight: 500;
+    }
+    .main-heading h2{
+        font-size: 40px;
+        font-weight: 500;
+    }
+  }
