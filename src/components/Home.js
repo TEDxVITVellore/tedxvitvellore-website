@@ -13,16 +13,16 @@ function Home() {
     {/* <div class="bg"></div> */}
         <div className="hero-content">
             <div>
-            <p className="counter"><Countdown className="highlight-red" date={1671886363000} /></p>
+            <p className="counter"><Countdown className="highlight-red" date={1670783400000} /></p>
             </div>
             <div className="main-heading">
-                <h1>Embedded.</h1>
-                <h1>24/12/2022</h1>
+                <h1>Melange.</h1>
+                <h1>12/12/2022</h1>
             </div>
             <p className="grey">Our event, Embedded aimed at instilling a love for technology and science in students and encouraging them to think differently and follow the path of innovation. Our esteemed panel presented highly informative and captivating talks where they talked about how technology has shaped their lives and how it can be used to solve real world problems.
 This conference inspired us to innovate and think differently and stimulated our minds through a series of empowering talks.</p>
 <div>
-    <button>Register now</button>
+    <button>Coming soon</button>
 </div>
         </div>
     </div>
