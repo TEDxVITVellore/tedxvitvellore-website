@@ -1,6 +1,7 @@
 import {React, useEffect, useCallback, useRef} from 'react';
 import '../stylesheets/Notfound.css';
 import ReactCanvasConfetti from "react-canvas-confetti";
+import Fade from 'react-reveal/Fade';
 
 const canvasStyles = {
   position: "fixed",
@@ -65,8 +66,12 @@ function Notfound() {
     <ReactCanvasConfetti refConfetti={getInstance} style={canvasStyles} />
     <div className="middle">
     <div className="main-heading">
+    <Fade>
             <h1>Page not found</h1>
+            </Fade>
+            <Fade delay="1500">
             <p className="italic">"Like your dad"</p>
+            </Fade>
         </div>
     </div>
         

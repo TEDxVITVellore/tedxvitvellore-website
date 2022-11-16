@@ -1,6 +1,6 @@
 import {React} from 'react';
 import '../stylesheets/Blogs.css';
-
+import Fade from 'react-reveal/Fade';
 import allblogs from '../BlogDetails.json';
 
 function Blogs() {
@@ -8,9 +8,11 @@ function Blogs() {
     if(blogs.length > 0){
         return(
             <div className="blogs-outer padding outer">
+            <Fade>
         <div className="main-heading">
             <h1><span className="highlight-yellow">Editorial's</span> word play</h1>
         </div>
+        </Fade>
         <div className="hr"></div>
         <div className="date">
         <p className="grey half">Participated as guests and led us through a trip down memory lane. The guests spoke about their college life at VIT, their different experiences, and the choices that had to be made. They shared their experiences as a part of TEDxVITVellore; thus, the audience learned the processes involved in planning and organizing TEDx events. All in all, ReuniTED was a very wholesome and inspiring event.</p>
