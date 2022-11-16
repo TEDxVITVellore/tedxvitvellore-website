@@ -126,7 +126,7 @@ function Footer() {
         <SnackBar
         className="snack"
         open={open}
-        message="You found an easter 🚀 but not a gf yet 😂"
+        message="You found an easter 🚀 but life still sucks"
         position='bottom-center'
         type="success"
         timeout='3000'
