@@ -6,6 +6,7 @@ import {
   } from 'react-router-dom';
 
 import events from '../EventDetails.json';
+import Fade from 'react-reveal/Fade';
 
 
 function Event() {
@@ -21,10 +22,12 @@ function Event() {
     if(data){
         return (
             <div className="events-outer padding outer">
+            <Fade>
                 <div className="main-heading">
                     <h1>{data.title}</h1>
                     <p className="italic">{data.tagline}</p>
                 </div>
+                </Fade>
                 <div className="hr"></div>
                 <div className="about-event">
                 <div className="date">

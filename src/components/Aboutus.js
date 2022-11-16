@@ -1,12 +1,15 @@
 import React from 'react';
 import '../stylesheets/Aboutus.css';
+import Fade from 'react-reveal/Fade';
 
 function Aboutus() {
   return (
     <div className="about-outer padding outer">
+    <Fade>
         <div className="main-heading">
             <h1>Meet the <span className="highlight-red">dream</span> team</h1>
         </div>
+        </Fade>
         <div className="hr"></div>
         <div className="date">
         <p className="grey half">ReuniTED is an event where TEDxVITVellore's very own alums participated as guests and led us through a trip down memory lane. The guests spoke about their college life at VIT, their different experiences, and the choices that had to be made. They shared their experiences as a part of TEDxVITVellore; thus, the audience learned the processes involved in planning and organizing TEDx events. All in all, ReuniTED was a very wholesome and inspiring event.</p>
