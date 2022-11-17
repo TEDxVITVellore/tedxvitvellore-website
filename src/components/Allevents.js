@@ -21,6 +21,9 @@ function Allevents() {
                     <div className="event-img">
                     <a href="/event/envisage"><img src="/assets/envisage.png" alt="Samsung logo"></img></a>
                     </div>
+                    <div className="small-gap">
+    <a href="/event/envisage">See more</a>
+</div>
                     {/* <div className="event-content">
                     <i class="bi bi-calendar"></i><p>24/12/2022</p>
                     </div> */}
@@ -31,6 +34,9 @@ function Allevents() {
                     <div className="event-img">
                     <a href="/event/meraki"><img src="/assets/meraki.png" alt="Samsung logo"></img></a>
                     </div>
+                    <div className="small-gap">
+    <a href="/event/envisage">See more</a>
+</div>
                 </div>
             </div>
             <div className="event">
@@ -38,6 +44,9 @@ function Allevents() {
                     <div className="event-img">
                     <a href="/event/divergent"><img src="/assets/divergent.png" alt="Samsung logo"></img></a>
                     </div>
+                    <div className="small-gap">
+    <a href="/event/envisage">See more</a>
+</div>
                 </div>
             </div>
             <div className="event">
@@ -45,6 +54,9 @@ function Allevents() {
                     <div className="event-img">
                     <a href="/event/reunited"><img src="/assets/reunited.png" alt="Samsung logo"></img></a>
                     </div>
+                    <div className="small-gap">
+    <a href="/event/envisage">See more</a>
+</div>
                 </div>
             </div>
             <div className="event">
@@ -52,6 +64,9 @@ function Allevents() {
                     <div className="event-img">
                     <a href="/event/ripple"><img src="/assets/ripple.png" alt="Samsung logo"></img></a>
                     </div>
+                    <div className="small-gap">
+    <a href="/event/envisage">See more</a>
+</div>
                 </div>
             </div>
         </div>

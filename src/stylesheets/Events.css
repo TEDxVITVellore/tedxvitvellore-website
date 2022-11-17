@@ -38,6 +38,14 @@ i{
     padding:8px;
 }
 
+.small-gap{
+    padding:12px 0px;
+}
+
+.small-gap a{
+    font-weight: 600;
+}
+
 @media(max-width:768px){
     .event{
         width:50%;
