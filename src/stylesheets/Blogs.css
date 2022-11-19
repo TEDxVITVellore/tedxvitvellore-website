@@ -14,20 +14,19 @@
 }
 
 .blog-inner{
-    padding:8px;
+    padding:16px 8px;
 }
 
 .blog-img img{
     width:100%;
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
+
   transition: 0.2s;
 }
 
 .blog-img img:hover{
     transition: 0.2s;
-    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(0%);
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
 }
 
 @media(max-width:768px){
