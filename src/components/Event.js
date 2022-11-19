@@ -46,7 +46,7 @@ function Event() {
                         return(
                             <div key={index} className="speaker">
                             <div className="speaker-img">
-                                <img width="160px" src="/assets/frame.png" alt="ripple logo"></img>
+                                <img width="160px" src={speaker.url} alt="ripple logo"></img>
                             </div>
                             <div className="speaker-content">
                                 <h2>{speaker.name}</h2>

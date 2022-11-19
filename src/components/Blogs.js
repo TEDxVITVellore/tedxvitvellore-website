@@ -15,7 +15,7 @@ function Blogs() {
         </Fade>
         <div className="hr"></div>
         <div className="date">
-        <p className="grey half">Participated as guests and led us through a trip down memory lane. The guests spoke about their college life at VIT, their different experiences, and the choices that had to be made. They shared their experiences as a part of TEDxVITVellore; thus, the audience learned the processes involved in planning and organizing TEDx events. All in all, ReuniTED was a very wholesome and inspiring event.</p>
+        <p className="grey half">Writing is an artform that is seldom celebrated to the extent that it should be. To be able to put words in an order that not only invokes thought but also leaves the reader with a sensation of wonder is nothing short of a skill. Here in blogs, the editorial team of TEDxVITVellore plays to the symphony of words to create interesting, creative, and thought provoking blogs.</p>
         </div>
         <div className="all-blogs">
         {(blogs).map((blog, index) => {
@@ -23,7 +23,7 @@ function Blogs() {
                 <div key={index} className="blog">
                 <div className="blog-inner">
                     <div className="blog-img">
-                    <a rel="noreferrer" href="/" target="_blank"><img src="/assets/frame.png" alt="Member"></img></a>
+                    <a rel="noreferrer" href={blog.url} target="_blank"><img src={blog.imageUrl} alt="Member"></img></a>
                     </div>
                     <div className="blog-content">
                         <p>{blog.title}</p>

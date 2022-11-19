@@ -7,23 +7,28 @@
         "speakers":[
             {
                 "name": "Mr. Gaurav Patil",
-                "about": "Mr.Gaurav is a marine biologist, nature photographer, and visual artist. He aims to spread awareness about the importance of the conservation of nature among ordinary people with the help of his fantastic photography. Being a marine biologist, he feels that people need to understand the importance of oceans and the wildlife that relates to them."
+                "about": "Mr.Gaurav is a marine biologist, nature photographer, and visual artist. He aims to spread awareness about the importance of the conservation of nature among ordinary people with the help of his fantastic photography. Being a marine biologist, he feels that people need to understand the importance of oceans and the wildlife that relates to them.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Mr. Gaurav Khatri",
-                "about": "Mr. Khatri has been revolutionary in trying to help Castrol become a more sustainable company and reach its goal of becoming a net zero company by 2050. He has done his engineering from the University Institute of Technology RGPV and MBA from Symbiosis Centre for Management and Human Resource Development. He is also a part of the prestigious One Young World team, a global summit for young leaders, and has been trying to engage his colleagues in reducing carbon emissions."
+                "about": "Mr. Khatri has been revolutionary in trying to help Castrol become a more sustainable company and reach its goal of becoming a net zero company by 2050. He has done his engineering from the University Institute of Technology RGPV and MBA from Symbiosis Centre for Management and Human Resource Development. He is also a part of the prestigious One Young World team, a global summit for young leaders, and has been trying to engage his colleagues in reducing carbon emissions.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Mr .Ganesh Kumar Subramanian",
-                "about": "Mr.Ganesh is the Co-founder and Operation Lead of Kabadiwalla Connect, a startup redefining waste management by leveraging data and technology to help segregate and recycle non-biodegradable waste. He is also a Mechatronics Engineer who enjoys coding. A self-taught programmer, he primarily focuses on Front End Development. His research interests vary from UI/UX design to Virtual Reality, and he firmly believes that gestural/natural user interfaces are the future of Human-Computer Interaction."
+                "about": "Mr.Ganesh is the Co-founder and Operation Lead of Kabadiwalla Connect, a startup redefining waste management by leveraging data and technology to help segregate and recycle non-biodegradable waste. He is also a Mechatronics Engineer who enjoys coding. A self-taught programmer, he primarily focuses on Front End Development. His research interests vary from UI/UX design to Virtual Reality, and he firmly believes that gestural/natural user interfaces are the future of Human-Computer Interaction.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Dr.R.K. Nair",
-                "about": "He is the Co-founder of UGMA Gujarat and president of the Kerala association. Umbergoan, director of Shreekrishiraj apparels and a member of the ICDS under the textile ministry. He has adopted the method of Japanese professor Akira Miyawaki, a specialist in restoring the natural vegetation on degraded land, to create 40 forests in seven states across India. In 2017, he was honored by the Maharashtra government by awarding the Vasundhara award. Gujrat chief minister Vijay Rupani also appreciated him for forestation. The International Peace University of Germany awarded him an honorary doctorate for growing 5,50,000 trees in India."
+                "about": "He is the Co-founder of UGMA Gujarat and president of the Kerala association. Umbergoan, director of Shreekrishiraj apparels and a member of the ICDS under the textile ministry. He has adopted the method of Japanese professor Akira Miyawaki, a specialist in restoring the natural vegetation on degraded land, to create 40 forests in seven states across India. In 2017, he was honored by the Maharashtra government by awarding the Vasundhara award. Gujrat chief minister Vijay Rupani also appreciated him for forestation. The International Peace University of Germany awarded him an honorary doctorate for growing 5,50,000 trees in India.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Saurabh Nirmal",
-                "about": "Saurabh Nirmal is a food blogger, reviewer, influencer, and engineer. He is a passionate food connoisseur who started as a Delhi foodie to take food lovers on a gourmet journey trying out cuisines from across the world. Saurabh shares plenty of Insta photos, live-cooking videos, and honest reviews for his followers. He takes his followers on a culinary tour of Delhi's rich food culture through his blogs. In his blogs, he shares a myriad of local food experiences that are enough to satiate every palate. His blog is all about the incredible food culture of the capital city of India and is a paradise for food enthusiasts."
+                "about": "Saurabh Nirmal is a food blogger, reviewer, influencer, and engineer. He is a passionate food connoisseur who started as a Delhi foodie to take food lovers on a gourmet journey trying out cuisines from across the world. Saurabh shares plenty of Insta photos, live-cooking videos, and honest reviews for his followers. He takes his followers on a culinary tour of Delhi's rich food culture through his blogs. In his blogs, he shares a myriad of local food experiences that are enough to satiate every palate. His blog is all about the incredible food culture of the capital city of India and is a paradise for food enthusiasts.",
+                "url": "/assets/frame.png"
             }
         ]
     },
@@ -35,15 +40,18 @@
         "speakers":[
             {
                 "name": "Vaibhav Jha",
-                "about": "Vaibhav Jha is a triumphant alumnus of the VIT, Vellore institution of the batch 2020. He has paved the way for many future coordinators at VIT. After securing his undergraduate degree in Electronics and Communications, he is pursuing a career at Deloitte USI. He was an intrinsic and celebrated member of the TEDxVITVellore community."
+                "about": "Vaibhav Jha is a triumphant alumnus of the VIT, Vellore institution of the batch 2020. He has paved the way for many future coordinators at VIT. After securing his undergraduate degree in Electronics and Communications, he is pursuing a career at Deloitte USI. He was an intrinsic and celebrated member of the TEDxVITVellore community.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Saubhagya Kamal Singh",
-                "about": "Saubhagya Kamal Singh from VIT, Vellore, has completed his undergraduate degree in Civil Engineering and is making his institution incredibly proud through the work he is doing through the medium of YourDOST. He was a pivotal component of the TEDxVITVellore team and has paved the way for many of his juniors."
+                "about": "Saubhagya Kamal Singh from VIT, Vellore, has completed his undergraduate degree in Civil Engineering and is making his institution incredibly proud through the work he is doing through the medium of YourDOST. He was a pivotal component of the TEDxVITVellore team and has paved the way for many of his juniors.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Soumyamitra Agarwal",
-                "about": "Soumyamitra Agrawal is a proud VIT graduate from the batch of 2020. While at VIT, he pursued his B.Tech. in Computer Science Engineering with a specialization in Information Security. An integral part of the TEDxVITVellore team in 2019, Soumyamitra is someone all his juniors look up to in terms of work ethic and ambition. He has been selected to pursue his post-graduation program at the University of Illinois, USA."
+                "about": "Soumyamitra Agrawal is a proud VIT graduate from the batch of 2020. While at VIT, he pursued his B.Tech. in Computer Science Engineering with a specialization in Information Security. An integral part of the TEDxVITVellore team in 2019, Soumyamitra is someone all his juniors look up to in terms of work ethic and ambition. He has been selected to pursue his post-graduation program at the University of Illinois, USA.",
+                "url": "/assets/frame.png"
             }
         ]
     },
@@ -55,15 +63,18 @@
         "speakers":[
             {
                 "name": "Abhishek Jain",
-                "about": "Mr. Abishiekh Jain is a writer, spokesperson, blogger, and founder of Hacker's Den and co-founder of BLENDnLend. He says his overnight success took him nine years to accomplish. Mr. Jain does not describe himself as an entrepreneur as he feels that has connotations of overnight success. Hacker's Den is a blog that aims to simplify technology for laymen. BLENDNLend is an online lending platform aimed at helping young people in the banking industry."
+                "about": "Mr. Abishiekh Jain is a writer, spokesperson, blogger, and founder of Hacker's Den and co-founder of BLENDnLend. He says his overnight success took him nine years to accomplish. Mr. Jain does not describe himself as an entrepreneur as he feels that has connotations of overnight success. Hacker's Den is a blog that aims to simplify technology for laymen. BLENDNLend is an online lending platform aimed at helping young people in the banking industry.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Shreya Shrivastava",
-                "about": "Shreya Shrivastava is a former TEDx speaker but also the creator of PsychX. She has given a thought-provoking TEDx talk on 'AI assisting job choices' that helped people comprehend what goes into the decision-making process and assisted them in making better decisions."
+                "about": "Shreya Shrivastava is a former TEDx speaker but also the creator of PsychX. She has given a thought-provoking TEDx talk on 'AI assisting job choices' that helped people comprehend what goes into the decision-making process and assisted them in making better decisions.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Pradeep Kashyap",
-                "about": "Pradeep Kashyap, a former TEDx speaker, is also the creator of MART, an author, and a consultant for the World Bank and the United Nations. By establishing 'Rural Marketing' as a subject in Business Management Schools, he has aided numerous students and citizens across the nation."
+                "about": "Pradeep Kashyap, a former TEDx speaker, is also the creator of MART, an author, and a consultant for the World Bank and the United Nations. By establishing 'Rural Marketing' as a subject in Business Management Schools, he has aided numerous students and citizens across the nation.",
+                "url": "/assets/frame.png"
             }
         ]
     },
@@ -75,23 +86,28 @@
         "speakers":[
             {
                 "name": "Pratik Thakker",
-                "about": "Pratik Thakker is the CEO of Webzoly. He is Israel's Tech Ambassador to India and a LinkedIn influencer with an incredible following. He has also been honored with the India Achievers' Award 2021."
+                "about": "Pratik Thakker is the CEO of Webzoly. He is Israel's Tech Ambassador to India and a LinkedIn influencer with an incredible following. He has also been honored with the India Achievers' Award 2021.",
+                "url": "https://live.staticflickr.com/65535/52510674596_f9054afed0_w.jpg"
             },
             {
                 "name": "Dr. Shamoly Khera",
-                "about": "Dr. Shamoly Khera is the director of 'One Take Media,' an author, a TV Presenter, an Executive Presence Coach & the Founder of 'Speak To Inspire Academy. She has helped several people transition between flourishing careers as well as paved an exemplary path on her own."
+                "about": "Dr. Shamoly Khera is the director of 'One Take Media,' an author, a TV Presenter, an Executive Presence Coach & the Founder of 'Speak To Inspire Academy. She has helped several people transition between flourishing careers as well as paved an exemplary path on her own.",
+                "url": "https://live.staticflickr.com/65535/52510674751_4b199a8bae_w.jpg"
             },
             {
                 "name": "Ashish Choudhary",
-                "about": "Ashish Choudhary is the founder of the YouTube channel Commerce Baba, which is India's fastest-growing online platform in the commerce community. He selflessly provides free educational help to all Class XI & XII commerce students through his YouTube channel. He has played one of the pivotal roles in developing young careers through his platform."
+                "about": "Ashish Choudhary is the founder of the YouTube channel Commerce Baba, which is India's fastest-growing online platform in the commerce community. He selflessly provides free educational help to all Class XI & XII commerce students through his YouTube channel. He has played one of the pivotal roles in developing young careers through his platform.",
+                "url": "https://live.staticflickr.com/65535/52511156880_d0e63ef0e4_w.jpg"
             },
             {
                 "name": "Ankita Sharma",
-                "about": "Ankita Sharma is a young sustainability leader and ambassador to the Climate Force and has extensive experience establishing sustainability practices. She is also a 'Global Shaper of the World Economic Forum' and 'Lead India Fellow' Ankita is currently working in a leading position in an FMCG MNC and the past worked at Nestle, Marico, and Arvind Limited."
+                "about": "Ankita Sharma is a young sustainability leader and ambassador to the Climate Force and has extensive experience establishing sustainability practices. She is also a 'Global Shaper of the World Economic Forum' and 'Lead India Fellow' Ankita is currently working in a leading position in an FMCG MNC and the past worked at Nestle, Marico, and Arvind Limited.",
+                "url": "https://live.staticflickr.com/65535/52510201137_7bbf119d3d_w.jpg"
             },
             {
                 "name": "Babar Ali",
-                "about": "The 'youngest headmaster in the world by BBC in October 2009, Babar Ali is an Indian student and teacher from Murshidabad, West Bengal. For the last 18 years since its inception, more than 6000 students have benefited from complete free education from his institution. His biography is a part of the syllabus in different curricula across the globe. The Hon'ble President of India also mentioned his work in his speech on 25 January 2020."
+                "about": "The 'youngest headmaster in the world by BBC in October 2009, Babar Ali is an Indian student and teacher from Murshidabad, West Bengal. For the last 18 years since its inception, more than 6000 students have benefited from complete free education from his institution. His biography is a part of the syllabus in different curricula across the globe. The Hon'ble President of India also mentioned his work in his speech on 25 January 2020.",
+                "url": "https://live.staticflickr.com/65535/52510674871_b32398fd17_w.jpg"
             }
         ]
     },
@@ -103,43 +119,53 @@
         "speakers":[
             {
                 "name": "Sunil Menon",
-                "about": "Mr. Menon, the CEO at MenonFitness systems, is not only the first person to complete an Iron distance in India but also the first certified coach from Hyderabad. After working at Microsoft as a senior developer for eight years, he made sure he followed his passion and started his venture in healthcare, 'MenonFitness Systems' In his journey, he has also been a phenomenal Ultra Marathoner, Marathoner, Swimmer, Cyclist, Motivational Speaker, and Mentor. Last but not least, he has been injury-free during his entire sports career spanning 11 years, which indeed shows his expertise in his chosen field!"
+                "about": "Mr. Menon, the CEO at MenonFitness systems, is not only the first person to complete an Iron distance in India but also the first certified coach from Hyderabad. After working at Microsoft as a senior developer for eight years, he made sure he followed his passion and started his venture in healthcare, 'MenonFitness Systems' In his journey, he has also been a phenomenal Ultra Marathoner, Marathoner, Swimmer, Cyclist, Motivational Speaker, and Mentor. Last but not least, he has been injury-free during his entire sports career spanning 11 years, which indeed shows his expertise in his chosen field!",
+                "url": "https://live.staticflickr.com/65535/52511156540_4675996cb3_w.jpg"
             },
             {
                 "name": "Pranita Balar",
-                "about": "Ms. Pranita took the gallant decision to pursue her passion. Undaunted by the consequences and being a true cynophile by heart, she trained to become a certified dog trainer - all while still working at her corporate job. It was then that she worked with her first client. As she walked out their door, beaming, she knew that the corporate world was never her calling. Today, Pranita Balar is the successful founder of BarkNBond, its kind canine training center."
+                "about": "Ms. Pranita took the gallant decision to pursue her passion. Undaunted by the consequences and being a true cynophile by heart, she trained to become a certified dog trainer - all while still working at her corporate job. It was then that she worked with her first client. As she walked out their door, beaming, she knew that the corporate world was never her calling. Today, Pranita Balar is the successful founder of BarkNBond, its kind canine training center.",
+                "url": "https://live.staticflickr.com/65535/52510200892_b8947a9c49_w.jpg"
             },
             {
                 "name": "Raja Mukherjee",
-                "about": "The 2x Award-winning public speaker and Best Anchor India 2021, Raja Mukherjee is an entertainment entrepreneur., rapper, and anchor. The most fashionable emcee of our country, he has always captivated the audience with his extraordinary anchoring prowess. He has over a decade of stage experience and has hosted and performed at various overseas events checking in on three continents."
+                "about": "The 2x Award-winning public speaker and Best Anchor India 2021, Raja Mukherjee is an entertainment entrepreneur., rapper, and anchor. The most fashionable emcee of our country, he has always captivated the audience with his extraordinary anchoring prowess. He has over a decade of stage experience and has hosted and performed at various overseas events checking in on three continents.",
+                "url": "https://live.staticflickr.com/65535/52511223868_572aee2db5_w.jpg"
             },
             {
                 "name": "Adi Cohen",
-                "about": "She is an architect, TEDx speaker, creative being, and free thinker. She is the founder of THE NEW MOVEMENT, an architecture studio that designs one-of-a-kind projects worldwide. Her design approach aims to fuel creativity and promote well-being. Adi is a global citizen and, to the best of her knowledge, the first architect living a nomadic lifestyle while working. She uses her travels as a source of inspiration, a way to connect to ancient wisdom and learn from local communities."
+                "about": "She is an architect, TEDx speaker, creative being, and free thinker. She is the founder of THE NEW MOVEMENT, an architecture studio that designs one-of-a-kind projects worldwide. Her design approach aims to fuel creativity and promote well-being. Adi is a global citizen and, to the best of her knowledge, the first architect living a nomadic lifestyle while working. She uses her travels as a source of inspiration, a way to connect to ancient wisdom and learn from local communities.",
+                "url": "https://live.staticflickr.com/65535/52510674986_f138c3c5e5_w.jpg"
             },
             {
                 "name": "Chinmay Khedekar",
-                "about": "Mr. Khedekar is a dancer, choreographer, blogger, and software engineering graduate from Mumbai. He has a great sense of fashion and is known as 'The Wardrobe Enginee' Mr. Khedekar has choreographed advertisements, corporate events, and TV serials. In his illustrious career, he has also trained models and TV actresses."
+                "about": "Mr. Khedekar is a dancer, choreographer, blogger, and software engineering graduate from Mumbai. He has a great sense of fashion and is known as 'The Wardrobe Enginee' Mr. Khedekar has choreographed advertisements, corporate events, and TV serials. In his illustrious career, he has also trained models and TV actresses.",
+                "url": "https://live.staticflickr.com/65535/52510201042_df336bc718_w.jpg"
             },
             {
                 "name": "Sonia Thiyam",
-                "about": "Sonia Thiyam is a doctor who became a fashion blogger with a large follower base on Instagram. She featured in the Converse India Diwali campaign in 2017, Wegettoknow podcasts, and Eclectic magazine was also part of the international website Whowhatwhear.com, worked with over 100 fashion brands, and brought India on the world blogging map."
+                "about": "Sonia Thiyam is a doctor who became a fashion blogger with a large follower base on Instagram. She featured in the Converse India Diwali campaign in 2017, Wegettoknow podcasts, and Eclectic magazine was also part of the international website Whowhatwhear.com, worked with over 100 fashion brands, and brought India on the world blogging map.",
+                "url": "https://live.staticflickr.com/65535/52510948574_0e3feda59c_w.jpg"
             },
             {
                 "name": "Aditya Arora",
-                "about": "Aditya Arora, the youngest Padma Shri Nominee, has been recognized as a Successful Young Entrepreneur and Achiever on various National and International platforms. Joined FAAD as an Intern at 19 and got promoted to CEO by the time he reached 21. He is the perfect story for anyone who wants to start young and make it big."
+                "about": "Aditya Arora, the youngest Padma Shri Nominee, has been recognized as a Successful Young Entrepreneur and Achiever on various National and International platforms. Joined FAAD as an Intern at 19 and got promoted to CEO by the time he reached 21. He is the perfect story for anyone who wants to start young and make it big.",
+                "url": "https://live.staticflickr.com/65535/52511224213_9d4fd11d27_w.jpg"
             },
             {
                 "name": "Abhinav Arora",
-                "about": "Abhinav Arora is the Chief Marketing Officer of Avalon Meta. He began his career as a native advertising consultant and worked across multiple remote and on-site teams. Digital has been a great asset to him professionally, and he understood its power early in his career. This also gave him unparalleled insight into cyberpsychology."
+                "about": "Abhinav Arora is the Chief Marketing Officer of Avalon Meta. He began his career as a native advertising consultant and worked across multiple remote and on-site teams. Digital has been a great asset to him professionally, and he understood its power early in his career. This also gave him unparalleled insight into cyberpsychology.",
+                "url": "https://live.staticflickr.com/65535/52511157020_1cf00f8aa0_w.jpg"
             },
             {
                 "name": "Deepak Pareek",
-                "about": "Deepak Pareek, Co-founder of Career Kreeda, is a content creator who has reached out to more than 10 million millennials through his upbeat, thought-provoking content. Being a three times TEDx speaker, his content is targeted to young minds in their 20s, which helps them grow as a person."
+                "about": "Deepak Pareek, Co-founder of Career Kreeda, is a content creator who has reached out to more than 10 million millennials through his upbeat, thought-provoking content. Being a three times TEDx speaker, his content is targeted to young minds in their 20s, which helps them grow as a person.",
+                "url": "https://live.staticflickr.com/65535/52510201012_09dac39ef9_w.jpg"
             },
             {
                 "name": "Cdr.Abhishek Kankan",
-                "about": "Cdr. Abhishek Kankan has spent 21 years in the Indian Navy as a Marine Commando and Submariner. He also summited Mt. Everest in 2004 and was awarded a Nao Sena Medal (Gallantry) in 2005 for his acts of bravery. An IIM Indore graduate, he is a master strategist and trainer."
+                "about": "Cdr. Abhishek Kankan has spent 21 years in the Indian Navy as a Marine Commando and Submariner. He also summited Mt. Everest in 2004 and was awarded a Nao Sena Medal (Gallantry) in 2005 for his acts of bravery. An IIM Indore graduate, he is a master strategist and trainer.",
+                "url": "https://live.staticflickr.com/65535/52510948834_6e99e3e4ac_w.jpg"
             }
         ]
     },
@@ -151,15 +177,18 @@
         "speakers":[
             {
                 "name": "Dr. Coomar Arunodaya",
-                "about": "A patriot from heart, he has left no stone unturned to lit the flame of Patriotism in people's hearts. He started writing with the main aim of evolving society and bringing in basic morals among the people. Dr. Coomar is not only an excellent writer but also a skilled architect, outstanding educationist, and sensitive philanthropist. He is also well known as a brilliant speaker and versatile human being. He finds it appealing to be involved in deep ideological discussions on educational nationalism, cultural preservation, and social participation with the youth."
+                "about": "A patriot from heart, he has left no stone unturned to lit the flame of Patriotism in people's hearts. He started writing with the main aim of evolving society and bringing in basic morals among the people. Dr. Coomar is not only an excellent writer but also a skilled architect, outstanding educationist, and sensitive philanthropist. He is also well known as a brilliant speaker and versatile human being. He finds it appealing to be involved in deep ideological discussions on educational nationalism, cultural preservation, and social participation with the youth.",
+                "url": "https://live.staticflickr.com/65535/52510674781_4be9042f0d_w.jpg"
             },
             {
                 "name": "Ms. Shreya Pattar",
-                "about": "Being an industry expert in content writing and digital marketing, she brings a refreshing perspective to the world of marketing and content. She uses the medium of her original and out-of-the-box work to inspire and communicate the true essence of brand vision. An avid and thought-provoking writer, she has been published in several magazines, newspapers, websites, and global digital media kits. Primarily a writer, Ms. Pattar is a multi-faceted talent pool including (but not limited to) baking, painting, musician, event management, and athletics. She truly is someone we hold to an ideal in the literary world and admire for her unique perspective, thought process, and writing style."
+                "about": "Being an industry expert in content writing and digital marketing, she brings a refreshing perspective to the world of marketing and content. She uses the medium of her original and out-of-the-box work to inspire and communicate the true essence of brand vision. An avid and thought-provoking writer, she has been published in several magazines, newspapers, websites, and global digital media kits. Primarily a writer, Ms. Pattar is a multi-faceted talent pool including (but not limited to) baking, painting, musician, event management, and athletics. She truly is someone we hold to an ideal in the literary world and admire for her unique perspective, thought process, and writing style.",
+                "url": "https://live.staticflickr.com/65535/52511156650_8351abcb55_w.jpg"
             },
             {
                 "name": "Mr.Sarabjeet Garcha",
-                "about": "He is a bilingual wordsmith whose words transcend cultural boundaries and warm hearts with his scintillating anecdotes. He is the author of four enthralling books of poems, including 'A Clock in the Far Past, Lullaby of the Ever-Returning, and The Half-Moon Halo,' as well as a book of Hindi poetry. He has received a fellowship in Hindi literature from the Ministry of Culture of India, currently serving as an editor of a publishing company of scientifical, technical, and medical books. His unapologetic desire not to get limited by the incongruity of cultures made him translate the works of many American poets into Hindi. The keen desire to 'express the constant malleability of this shielded life' compels him to write."
+                "about": "He is a bilingual wordsmith whose words transcend cultural boundaries and warm hearts with his scintillating anecdotes. He is the author of four enthralling books of poems, including 'A Clock in the Far Past, Lullaby of the Ever-Returning, and The Half-Moon Halo,' as well as a book of Hindi poetry. He has received a fellowship in Hindi literature from the Ministry of Culture of India, currently serving as an editor of a publishing company of scientifical, technical, and medical books. His unapologetic desire not to get limited by the incongruity of cultures made him translate the works of many American poets into Hindi. The keen desire to 'express the constant malleability of this shielded life' compels him to write.",
+                "url": "https://live.staticflickr.com/65535/52511224003_5cbda75026_w.jpg"
             }
         ]
     },
@@ -171,15 +200,18 @@
         "speakers":[
             {
                 "name": "Mr.Anish Agarwal",
-                "about": "He is the CEO of Kolkata-based Start-up Sabse Sasta Dukaan. Being a young, pragmatic, and optimistic engineer, he is trying to revolutionize the Healthcare Delivery Service. He has worked up the ladder of success with intricate and intense knowledge about startups. He brings energy and enthusiasm to any room he walks into. He believes that consistency, courage, and hard work are the magic trio that makes a startup successful."
+                "about": "He is the CEO of Kolkata-based Start-up Sabse Sasta Dukaan. Being a young, pragmatic, and optimistic engineer, he is trying to revolutionize the Healthcare Delivery Service. He has worked up the ladder of success with intricate and intense knowledge about startups. He brings energy and enthusiasm to any room he walks into. He believes that consistency, courage, and hard work are the magic trio that makes a startup successful.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Kartik Pasrija",
-                "about": "He currently serves as the Assistant Director, Ordnance Factory, under the Defence Ministry. He is a BE from Manipal Institute of Technology and completed his Master's in Technology from IIT Delhi. He is a supremely motivated and energetic man and brings an extensive insight on a host of topics."
+                "about": "He currently serves as the Assistant Director, Ordnance Factory, under the Defence Ministry. He is a BE from Manipal Institute of Technology and completed his Master's in Technology from IIT Delhi. He is a supremely motivated and energetic man and brings an extensive insight on a host of topics.",
+                "url": "/assets/frame.png"
             },
             {
                 "name": "Ameya Abhyankar",
-                "about": "He is currently serving as the Secretary in Sports and Youth Affairs, IT Department, & science and technology, Government of Arunachal Pradesh. Mr. Abhyankar was long associated with the IT ministry and was CEO of the Entertainment Society of Goa (ESG). In addition, he was the director of tourism before heading the IT department in 2015 and secretary to chief minister Laxmikant Parsekar in 2016."
+                "about": "He is currently serving as the Secretary in Sports and Youth Affairs, IT Department, & science and technology, Government of Arunachal Pradesh. Mr. Abhyankar was long associated with the IT ministry and was CEO of the Entertainment Society of Goa (ESG). In addition, he was the director of tourism before heading the IT department in 2015 and secretary to chief minister Laxmikant Parsekar in 2016.",
+                "url": "/assets/frame.png"
             }
         ]
     }

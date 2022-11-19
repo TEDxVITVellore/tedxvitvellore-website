@@ -1,40 +1,75 @@
 {
     "data":[
         {
-            "title": "Blog title",
-            "author": "Editoial teamndjkfs",
-            "url": "netflix.com",
-            "imageUrl": "https://www.seekpng.com/png/small/30-309013_grey-square-grey-square-png.png"
+            "title": "The Piece of Balance in the Puzzle of Life",
+            "author": "Nikhitha Yeturu",
+            "url": "https://medium.com/tedxvitvellore/the-piece-of-balance-in-the-puzzle-of-life-2b4f6e4471fe",
+            "date": "Jun 8, 2021",
+            "imageUrl": "https://live.staticflickr.com/65535/52511118265_7e46396ecc_n.jpg"
         },
         {
-            "title": "Blog title",
-            "author": "Editoial teamndjkfs",
-            "url": "netflix.com",
-            "imageUrl": "https://www.seekpng.com/png/small/30-309013_grey-square-grey-square-png.png"
+            "title": "My Dynamic with My Dreams",
+            "author": "Indrayudd Roy",
+            "url": "https://medium.com/tedxvitvellore/my-dynamic-with-my-dreams-5e4a236375a0",
+            "date": "May 29, 2021",
+            "imageUrl": "https://live.staticflickr.com/65535/52510636981_cb400b90a1_n.jpg"
         },
         {
-            "title": "Blog title",
-            "author": "Editoial teamndjkfs",
-            "url": "netflix.com",
-            "imageUrl": "https://www.seekpng.com/png/small/30-309013_grey-square-grey-square-png.png"
+            "title": "Redefining Success… Holistically.",
+            "author": "Aman Anand",
+            "url": "https://medium.com/tedxvitvellore/redefining-success-holistically-b79a6c212ad3",
+            "date": "May 7, 2021",
+            "imageUrl": "https://live.staticflickr.com/65535/52510910499_d9516e2913_n.jpg"
         },
         {
-            "title": "Blog title",
-            "author": "Editoial teamndjkfs",
-            "url": "netflix.com",
-            "imageUrl": "https://www.seekpng.com/png/small/30-309013_grey-square-grey-square-png.png"
+            "title": "Beginning of a vicious circle… overthinking?",
+            "author": "Ria Arun",
+            "url": "https://medium.com/tedxvitvellore/beginning-of-a-vicious-circle-overthinking-e217ad737196",
+            "date": "Apr 29, 2021",
+            "imageUrl": "https://live.staticflickr.com/65535/52511117875_02f689b356_n.jpg"
         },
         {
-            "title": "Blog title",
-            "author": "Editoial teamndjkfs",
-            "url": "netflix.com",
-            "imageUrl": "https://www.seekpng.com/png/small/30-309013_grey-square-grey-square-png.png"
+            "title": "The Biology of pain and pleasure",
+            "author": "Mainak Ghosh",
+            "url": "https://medium.com/tedxvitvellore/the-biology-of-pain-and-pleasure-761be7bd62ea",
+            "date": "Apr 8, 2021",
+            "imageUrl": "https://live.staticflickr.com/65535/52510162912_1191a132e0_n.jpg"
         },
         {
-            "title": "Blog title",
-            "author": "Editoial teamndjkfs",
+            "title": "Doing NOTHING is sometimes EVERYTHING",
+            "author": "Oishika",
             "url": "netflix.com",
-            "imageUrl": "https://www.seekpng.com/png/small/30-309013_grey-square-grey-square-png.png"
+            "date": "Mar 22, 2021",
+            "imageUrl": "https://live.staticflickr.com/65535/52511185878_59b5628684_n.jpg"
+        },
+        {
+            "title": "The cheat code for becoming successful on planet Earth",
+            "author": "Saumitra Singh",
+            "url": "https://medium.com/tedxvitvellore/the-cheat-code-for-becoming-successful-on-planet-earth-42d364abe44e",
+            "date": "Mar 17, 2021",
+            "imageUrl": "https://live.staticflickr.com/65535/52511117910_02fb214a74_n.jpg"
+        },
+        {
+            "title": "The new Vogue: Eco tourism",
+            "author": "Abhyudya Rathour",
+            "url": "https://medium.com/tedxvitvellore/the-new-vogue-eco-tourism-204214e1de7",
+            "date": "Dec 29, 2020",
+            "imageUrl": "https://live.staticflickr.com/65535/52511118045_08d1bf014d_n.jpg"
+        },
+        {
+            "title": "The (NOT So) Cool Menace of Ragging",
+            "author": "Vishesh Raina",
+            "url": "https://medium.com/tedxvitvellore/the-not-so-cool-menace-of-ragging-c1605b29c4a6",
+            "date": "Dec 26, 2020",
+            "imageUrl": "https://live.staticflickr.com/65535/52510910639_99352f1782_n.jpg"
+        },
+        {
+            "title": "Mens’conception",
+            "author": "Abhyudya Rathour",
+            "url": "https://medium.com/tedxvitvellore/mensconception-ae2c559a6ded",
+            "date": "Dec 19, 2020",
+            "imageUrl": "https://live.staticflickr.com/65535/52510910599_8793482f7b_n.jpg"
         }
+        
     ]
 }
