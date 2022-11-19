@@ -12,7 +12,7 @@ function Aboutus() {
         </Fade>
         <div className="hr"></div>
         <div className="date">
-        <p className="grey half">We at TEDxVITVellore are a team of passionate individuals who strive to bring TEDx events much like TED events which centre around short, prepared talks, performances and demonstrations laying emphasis on ideas which provoke learning, inspiration and wonder. TEDx events are held at a local community level and are independently organised by volunteers. We aim to propose events that lay emphasis on community and allow the speakers who wouldn’t usually get access to a stage, to speak and communicate their ideas. TEDxVITVellore encourages ideas which are thought provoking and impactful while lacking any religious, commercial or political bias/agenda.</p>
+        <p className="grey half">We at TEDxVITVellore are a team of passionate individuals who strive to bring TEDx events much like TED events which centre around short, prepared talks, performances and demonstrations laying emphasis on ideas which provoke learning, inspiration and wonder.</p>
         </div>
         <div className="all-members">
         <div className="member">
