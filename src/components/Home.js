@@ -21,8 +21,7 @@ function Home() {
                 <h1>Melange.</h1>
                 <h1>12/12/2022</h1>
             </div>
-            <p className="grey">Our event, Embedded aimed at instilling a love for technology and science in students and encouraging them to think differently and follow the path of innovation. Our esteemed panel presented highly informative and captivating talks where they talked about how technology has shaped their lives and how it can be used to solve real world problems.
-This conference inspired us to innovate and think differently and stimulated our minds through a series of empowering talks.</p>
+            <p className="grey half">'Melange,' synonymous with medley and mixture, is a theme that itself is a medley of two themes, the first being diversity, inclusivity, and variety and the second being about moving away from the set paradigm, breaking away from the societal conformities, and overcoming stereotypes. The Tagline' Unscript the Scripted' refers to breaking the set dogma and moving away from the status quo.</p>
 <div>
     <button>Coming soon</button>
 </div>

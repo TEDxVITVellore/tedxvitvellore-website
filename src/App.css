@@ -18,12 +18,12 @@
 }
 
 .half{
-    width:50%;
+    width:60%;
 }
 
 @media(max-width:768px){
     .half{
-        width:70%;
+        width:80%;
     }
   }
 
