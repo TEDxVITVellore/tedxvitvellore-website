@@ -32,10 +32,18 @@ a{
   color:white;
   cursor:pointer;
   font-size: 14px;
+  transition: 0.2s;
+}
+
+a:hover{
+  color:rgb(0, 0, 0);
+  cursor:pointer;
+  transition: 0.2s;
 }
 
 .grey{
   color:#9a9a9a;
+
 }
 
 button{

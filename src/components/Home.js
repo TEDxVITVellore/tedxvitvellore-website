@@ -23,7 +23,7 @@ function Home() {
             </div>
             <p className="grey half">'Melange,' synonymous with medley and mixture, is a theme that itself is a medley of two themes, the first being diversity, inclusivity, and variety and the second being about moving away from the set paradigm, breaking away from the societal conformities, and overcoming stereotypes. The Tagline' Unscript the Scripted' refers to breaking the set dogma and moving away from the status quo.</p>
 <div>
-    <button>Coming soon</button>
+    <button><a href="/event/melange">Learn more</a></button>
 </div>
         </div>
         </Fade>
