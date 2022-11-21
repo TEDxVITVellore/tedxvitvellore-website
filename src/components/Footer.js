@@ -106,7 +106,7 @@ function Footer() {
                     <p className="separator">|</p>
                     <a rel="noreferrer" href="https://twitter.com/TEDxVITVellore" target="_blank" className="anchor">Twitter</a>
                     <p className="separator">|</p>
-                    <a rel="noreferrer" href="https://www.linkedin.com/company/tedx-vitvellore/" target="_blank" className="anchor">Medium</a>
+                    <a rel="noreferrer" href="https://medium.com/tedxvitvellore" target="_blank" className="anchor">Medium</a>
                     <p className="separator">|</p>
                     <a rel="noreferrer" href="https://www.facebook.com/Tedxvitvellore/" target="_blank" className="anchor">Facebook</a>
                 </div>
