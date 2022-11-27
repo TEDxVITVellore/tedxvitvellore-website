@@ -31,10 +31,10 @@ function Event() {
                 <div className="hr"></div>
                 <div className="about-event">
                 <div className="date">
-                    <p>Date of event</p>
+                    <p className='gap'>Date of event</p>
                     <p className="bold">{data.date}</p>
                 </div>
-                    <p className="grey half">{data.summary}</p>
+                    <p className="grey half gap">{data.summary}</p>
                 </div>
                 {data.speakers ? 
                     <div className="speaker-section">
